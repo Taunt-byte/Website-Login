@@ -3,9 +3,9 @@
     <img src="img/Logo.png" height="150" width="175" alt="Unform" />
   </a>
 </p>
-<h1 align="center">WebSite Parallax</h1> 
+<h1 align="center">Website com tela de login </h1> 
 
-<p align="center">WebSite com o feito Parallax so que funcionando com o JavaScript</p>
+<p align="center"></p>
 
 Tabela de conteúdos
 =================
@@ -24,12 +24,12 @@ Tabela de conteúdos
 
 ## Sobre
 
- É um projeto para a contrução de um WebSite com o feito Parallax so que funcionando com o JavaScript
+ 
 
 ## Tabela de conteudo
 
-- [ ] Efeito parallax em JavaScript
-- [ ] Fotos sobre Cidades do Brasil
+- [ ] 
+- [ ] 
 
 ## Como usar
 
