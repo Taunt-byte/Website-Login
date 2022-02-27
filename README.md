@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">Website com tela de login</h1> 
 
-<p align="center"></p>
+<p align="center">Feito em HTML, CSS e Javascript</p>
 
 Tabela de conteúdos
 =================
@@ -19,26 +19,37 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento.  🚧
+	✔️  Pronto  ✔️
 </h4>
 
 ## Sobre
 
+  É uma tela de login simples feita com javascript ,HTML e CSS como proposto no curso de frontend da workover realizado no ano de 2022.
  
 
 ## Tabela de conteudo
 
-- [ ] 
-- [ ] 
+- [X] Arquivo HTML
+- [X] Arquivo CSS
+- [X] Arquivo Javascript
 
 ## Como usar
 
-  -
+  Para usar basta rodar o arquivo html em qualquer Navegador de internet (Opera,Firefox e etc).
 
 ## Pre requisitos
 
--
+ Só é necessario ter uma IDE e o git instalado
 
 ## Tecnologias
 
--
+<table>
+    <tr>
+    <td>CSS</td>
+    <td>Javascript</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    <td>*</td>
+    </tr>
+</table>
